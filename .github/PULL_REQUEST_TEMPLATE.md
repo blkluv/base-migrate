@@ -1,5 +1,5 @@
 <!--
-Thank you for your contribution to Base Migrate!
+Thank you for your contribution to Base!
 -->
 
 # Description
@@ -32,6 +32,6 @@ PS: [Read how to write the perfect pull request](https://blog.github.com/2015-01
 
 <!--
 
-If relevant, please write a summary of your change that will be suitable for inclusion in the Release Notes for the next Base Migrate release.
+If relevant, please write a summary of your change that will be suitable for inclusion in the Release Notes for the next Base release.
 
 -->

@@ -6,7 +6,7 @@ const router = Router();
 
 router.get('/', (req, res) => {
   res.json({
-    message: 'Welcome to base migrate API',
+    message: 'Welcome to base API',
   });
 });
 

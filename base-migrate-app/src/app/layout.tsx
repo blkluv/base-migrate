@@ -10,7 +10,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Base Migrate',
+  title: 'Base',
   description: 'Migrate ERC20 tokens to Base Network',
   keywords: [
     'base',

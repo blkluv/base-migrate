@@ -31,8 +31,8 @@ function Page() {
           Migrate ERC20 tokens to Base Network
         </h1>
         <p className="text-black-150 text-sm lg:text-base pt-5 pb-7 text-center leading-5 md:max-w-[60%] xl:max-w-[32%] 2xl:max-w-[22%] md:leading-[28px]">
-          Automatically deploy canonical bridged ERC20 to base and Create a PR on the superchain
-          token list repo.
+          Automate the deployment of canonical bridged ERC20 tokens to the base chain and create
+          pull requests on the superchain token list repository.
         </p>
         <Button onClick={handleConnect} text="Migrate to base" />
       </div>

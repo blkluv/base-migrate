@@ -57,7 +57,7 @@ const Header = () => {
                 <div className="md:hidden">
                   <SmallLogo />
                 </div>
-                <div className="text-xs md:text-xl text-black-100 font-medium">Base Migrate</div>
+                <div className="text-xs md:text-xl text-black-100 font-medium">Base.</div>
               </ClickAnimation>
 
               <div className="ml-2.5 md:ml-5">
